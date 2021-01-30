@@ -1,0 +1,12 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATMEGA16 -DL -SSA -O11111114 -fo16 -N"C:\Users\Gagan\Desktop\ADC Test\ADC Test.mcpav" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\uses\lte64kw\" -SP"C:\Users\Gagan\Desktop\ADC Test\" "ADC Test.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_ADC.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+diagnostics: 0	126	All files Preprocessed in 63 ms	 
+diagnostics: 0	122	Compilation Started	ADC Test.c
+diagnostics: 35	123	Compiled Successfully	ADC Test.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)
+hint: 0	1144	Static RAM (bytes): 23   Dynamic RAM (bytes): 1000	Static RAM (bytes): 23   Dynamic RAM (bytes): 1000
+hint: 0	1144	Used ROM (bytes): 1587 (10%)  Free ROM (bytes): 14797 (90%)	Used ROM (bytes): 1587 (10%)  Free ROM (bytes): 14797 (90%)
+diagnostics: 0	125	Project Linked Successfully	ADC Test.mcpav
+diagnostics: 0	128	Linked in 109 ms	 
+diagnostics: 0	129	Project 'ADC Test.mcpav' completed: 374 ms	 
+diagnostics: 0	103	Finished successfully: 04 May 2017, 11:28:07	ADC Test.mcpav
