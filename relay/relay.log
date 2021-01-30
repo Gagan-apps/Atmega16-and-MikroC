@@ -1,0 +1,12 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATMEGA16 -DL -SSA -O11111114 -fo16 -N"C:\Users\Gagan\Desktop\relay\relay.mcpav" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\uses\lte64kw\" -SP"C:\Users\Gagan\Desktop\relay\" "relay.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+diagnostics: 0	126	All files Preprocessed in 124 ms	 
+diagnostics: 0	122	Compilation Started	relay.c
+diagnostics: 18	123	Compiled Successfully	relay.c
+diagnostics: 0	127	All files Compiled in 172 ms	 
+hint: 0	1144	Used RX (bytes): 8 (25%)   Free RX (bytes): 24 (75%)	Used RX (bytes): 8 (25%)   Free RX (bytes): 24 (75%)
+hint: 0	1144	Static RAM (bytes): 0   Dynamic RAM (bytes): 1024	Static RAM (bytes): 0   Dynamic RAM (bytes): 1024
+hint: 0	1144	Used ROM (bytes): 166 (1%)  Free ROM (bytes): 16218 (99%)	Used ROM (bytes): 166 (1%)  Free ROM (bytes): 16218 (99%)
+diagnostics: 0	125	Project Linked Successfully	relay.mcpav
+diagnostics: 0	128	Linked in 78 ms	 
+diagnostics: 0	129	Project 'relay.mcpav' completed: 421 ms	 
+diagnostics: 0	103	Finished successfully: 10 May 2017, 15:04:28	relay.mcpav
