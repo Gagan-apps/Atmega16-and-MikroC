@@ -1,0 +1,17 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATMEGA16 -RA -DL -SSA -O11111114 -fo16 -N"C:\Users\Gagan\Desktop\UART\uart.mcpav" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\uses\lte64kw\" -SP"C:\Users\Gagan\Desktop\UART\" "uart.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_UART_d01_ursel.mcl"	 
+diagnostics: 0	122	Compilation Started	ATMEGA16.c
+diagnostics: 1200	123	Compiled Successfully	ATMEGA16.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 170	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	126	All files Preprocessed in 63 ms	 
+diagnostics: 0	122	Compilation Started	uart.c
+warning: 4	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	uart.c
+diagnostics: 19	123	Compiled Successfully	uart.c
+diagnostics: 0	127	All files Compiled in 156 ms	 
+hint: 0	1144	Used RX (bytes): 13 (41%)   Free RX (bytes): 19 (59%)	Used RX (bytes): 13 (41%)   Free RX (bytes): 19 (59%)
+hint: 0	1144	Static RAM (bytes): 20   Dynamic RAM (bytes): 1004	Static RAM (bytes): 20   Dynamic RAM (bytes): 1004
+hint: 0	1144	Used ROM (bytes): 354 (2%)  Free ROM (bytes): 16030 (98%)	Used ROM (bytes): 354 (2%)  Free ROM (bytes): 16030 (98%)
+diagnostics: 0	125	Project Linked Successfully	uart.mcpav
+diagnostics: 0	128	Linked in 78 ms	 
+diagnostics: 0	129	Project 'uart.mcpav' completed: 656 ms	 
+diagnostics: 0	103	Finished successfully: 11 May 2017, 15:29:12	uart.mcpav
