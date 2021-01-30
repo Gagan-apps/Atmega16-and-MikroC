@@ -1,0 +1,16 @@
+0	1	mikrocAVR.exe -MSF -DBG -pATMEGA16 -RA -DL -SSA -O11111114 -fo16 -N"C:\Users\Gagan\Desktop\16x2 lcd library\16x2 lcd library.mcpav" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for AVR\uses\lte64kw\" -SP"C:\Users\Gagan\Desktop\16x2 lcd library\" "16x2 lcd library.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+diagnostics: 0	122	Compilation Started	ATMEGA16.c
+diagnostics: 1200	123	Compiled Successfully	ATMEGA16.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 170	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	126	All files Preprocessed in 63 ms	 
+diagnostics: 0	122	Compilation Started	16x2 lcd library.c
+diagnostics: 33	123	Compiled Successfully	16x2 lcd library.c
+diagnostics: 0	127	All files Compiled in 93 ms	 
+hint: 0	1144	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)
+hint: 0	1144	Static RAM (bytes): 11   Dynamic RAM (bytes): 1012	Static RAM (bytes): 11   Dynamic RAM (bytes): 1012
+hint: 0	1144	Used ROM (bytes): 1381 (8%)  Free ROM (bytes): 15003 (92%)	Used ROM (bytes): 1381 (8%)  Free ROM (bytes): 15003 (92%)
+diagnostics: 0	125	Project Linked Successfully	16x2 lcd library.mcpav
+diagnostics: 0	128	Linked in 63 ms	 
+diagnostics: 0	129	Project '16x2 lcd library.mcpav' completed: 531 ms	 
+diagnostics: 0	103	Finished successfully: 29 Apr 2017, 12:06:02	16x2 lcd library.mcpav
